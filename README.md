@@ -33,6 +33,10 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next" width="40" height="40"/>
+  </a>
+  
 
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -70,10 +74,11 @@ Here are some ideas to get you started:
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  
-
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="60" height="60"/>
   </a>
 </p>
 
