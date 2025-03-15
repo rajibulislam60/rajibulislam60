@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rajibul-islam-rajib-513229257/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rajibulislam60)  
-📧 Email: **rajibulislam60@gmail.com**  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rajibulislam60)   
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%232C8B37.svg?logo=whatsapp&logoColor=white)](https://wa.me/8801981869112)
+📱 WhatsApp: [**+8801981869112**]
+📧 Email: **rajibulislam60707877@gmail.com**  
     
 
     
