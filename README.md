@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning & working ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋;I'm+Md.+Rajibul+Islam+Rajib;MERN+Stack+Development+Student;Nice+To+Meet+You+....&center=true"></a></p>
+
+ ## **🧑‍💻 About Me**  
+🔹 **Frontend Developer || Backend Developer** | 🚀 Passionate about building interactive web applications  
+🔹 Specializing in **MERN Stack Development || Full Stack Development** (MongoDB, Express.js, React.js, Node.js)  
+🔹 Strong foundation in **JavaScript, TypeScript,React.js, Next.js, Tailwind CSS, Bootstrap, SCSS, CSS, HTML, Redux, MongoDB, Mongoose, Express.js, Node.js, Firebase**  
+🔹 Focused on **performance, accessibility, and modern UI/UX**  
+🔹 Currently looking for **Frontend Developer || Backend Developer || MERN Stack Developer || Full Stack Developer roles World**  
+
+### 🌍 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rajibul-islam-rajib-513229257/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rajibulislam60)  
+📧 Email: **rajibulislam60@gmail.com**  
     
 
     
