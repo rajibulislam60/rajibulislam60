@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋;I'm+Md.+Rajibul+Islam+Rajib;MERN+Stack+Development+Student;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋;I'm+Md.+Rajibul+Islam+Rajib;As+a;MERN+Stack+Developer;Both+Frontend+and+Backend+Developer;Full+Stack+Developer;Nice+To+Meet+You+....&center=true"></a></p>
 
  ## **🧑‍💻 About Me**  
 🔹 **Frontend Developer || Backend Developer** | 🚀 Passionate about building interactive web applications  
@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rajibul-islam-rajib-513229257/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rajibulislam60)   
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%232C8B37.svg?logo=whatsapp&logoColor=white)](https://wa.me/8801981869112)
+
 📱 WhatsApp: [**+8801981869112**]
+
 📧 Email: **rajibulislam60707877@gmail.com**  
     
 
