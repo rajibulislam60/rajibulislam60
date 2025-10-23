@@ -1,115 +1,98 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Rajibul Islam Rajib
+### *Front-End & Full-Stack Developer | MERN Stack Specialist | UI/UX Enthusiast*
 
-<!--
-**rajibulislam60/rajibulislam60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajibul-islam/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=readme&logoColor=white)](https://mysaasnext.netlify.app/)  
+[![GitHub](https://img.shields.io/github/followers/rajibulislam60?label=Follow&style=social)](https://github.com/rajibulislam60)
 
-Here are some ideas to get you started:
+---
 
-- 🌱 I’m currently learning & working ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋;I'm+Md.+Rajibul+Islam+Rajib;As+a;MERN+Stack+Developer;Both+Frontend+and+Backend+Developer;Full+Stack+Developer;Nice+To+Meet+You+....&center=true"></a></p>
+## 🌟 About Me
+I'm a **Front-End & Full-Stack Developer** with a passion for creating **modern, responsive, and user-friendly web applications**.  
+I specialize in **React.js, Next.js, Tailwind CSS**, and the **MERN stack**, delivering projects that are **fast, interactive, and visually stunning**.  
 
- ## **🧑‍💻 About Me**  
-🔹 **Frontend Developer || Backend Developer** | 🚀 Passionate about building interactive web applications  
-🔹 Specializing in **MERN Stack Development || Full Stack Development** (MongoDB, Express.js, React.js, Node.js)  
-🔹 Strong foundation in **JavaScript, TypeScript,React.js, Next.js, Tailwind CSS, Bootstrap, SCSS, CSS, HTML, Redux, MongoDB, Mongoose, Express.js, Node.js, Firebase**  
-🔹 Focused on **performance, accessibility, and modern UI/UX**  
-🔹 Currently looking for **Frontend Developer || Backend Developer || MERN Stack Developer || Full Stack Developer roles World**  
+- 🔹 Strong focus on **UI/UX, performance, and accessibility**.  
+- 🔹 Transforming **designs into production-ready websites**.  
+- 🔹 Open-source contributor and **continuous learner of modern technologies**.
 
-### 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rajibul-islam-rajib-513229257/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rajibulislam60)   
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%232C8B37.svg?logo=whatsapp&logoColor=white)](https://wa.me/8801981869112)
+---
 
-📱 WhatsApp: [**+8801981869112**]
+## 🛠️ Tech Stack
 
-📧 Email: **rajibulislam60707877@gmail.com**  
-    
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-    
-# 🖥️ Technical Skills: 
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next" width="40" height="40"/>
-  </a>
-  
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+### 1️⃣ [MySaaSNext](https://mysaasnext.netlify.app/)
+- Modern **SaaS landing page** using **Next.js + Tailwind CSS**.  
+- Responsive layout, smooth animations, and **SEO-optimized**.  
+- Showcases ability to convert **designs into production-ready apps**.
+
+### 2️⃣ [Flight Booking UI](https://github.com/rajibulislam60/flight-booking-ui)
+- **One-way & round-trip flight booking forms**.  
+- Dynamic dropdowns, date pickers, icons, and fully **responsive**.  
+- Demonstrates **React component structuring** and **form handling**.
+
+### 3️⃣ [Food Dashboard](https://github.com/rajibulislam60/food-dashboard)
+- **Admin dashboard** for food, restaurant, and category management.  
+- Built with **React.js & Tailwind CSS** using reusable components.  
+- Focused on **UI clarity, functionality, and maintainability**.
+
+### 4️⃣ [Hackathon Winning Project](https://devpost.com/rajibulislam60707877)
+- Innovative solution developed for a **Devpost Hackathon**.  
+- Highlights problem-solving, **frontend design**, and rapid prototyping skills.
+
+*(Add screenshots or GIFs for extra impact)*
+
+---
+
+## 📊 GitHub Stats
+![Rajibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibulislam60&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibulislam60&layout=compact&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+- Advanced **Next.js & Server-Side Rendering**  
+- **GraphQL APIs** integration  
+- **TypeScript & large-scale project structuring**  
+- Progressive Web Apps (PWA) development  
+
+---
+
+## 💬 Let's Connect
+I'm open to **collaborations, freelance projects, and full-time roles**.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rajibul-islam/) or [Email](mailto:your-email@gmail.com).
+
+---
+
+## ⚡ Fun Facts
+- Won a **Hackathon** on Devpost with frontend innovations.  
+- Passionate about **UI animations** and **interactive web experiences**.  
+- Always experimenting with **modern frontend trends** and libraries.  
+
+---
 
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.github.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-  </a>
- 
-  <a href="https://getbootstrap5.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
-  </a>
-  
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  
- 
-  
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-  </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="60" height="60"/>
-  </a>
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibulislam60&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=rajibulislam60&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajibulislam60&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajibulislam60&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!--START_SECTION:waka-->
-
-```text
-JavaSricpt        100.00 %
-```
-<!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/rajibulislam60.rajibulislam60.svg)
