@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rajibul-islam-rajib-513229257/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajibulislam60707877@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=readme&logoColor=white)](https://up-portfolio-ecru.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=readme&logoColor=white)](https://rajibul-islam.netlify.app/)  
 [![GitHub](https://img.shields.io/github/followers/rajibulislam60?label=Follow&style=social)](https://github.com/rajibulislam60)
 
 ---
